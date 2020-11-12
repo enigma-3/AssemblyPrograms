@@ -1,5 +1,5 @@
 # AssemblyPrograms
-Programs made using x86 Assembly
+School assignments made using x86 Assembly
 
 * dot_prod: Calculates the dot product of two matrices
 * lsearch_2: Finds element in an array
